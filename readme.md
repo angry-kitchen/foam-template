@@ -1,14 +1,14 @@
 # Foam
 
-👋 Welcome to your new Foam Workspace!
+👋 欢迎来到你的Foam工作室!
 
-## Getting started
+## 入门指南
 
-This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/MacOS/Windows machine.
+本文档假设您有一个GitHub帐户，并在您的Linux/MacOS/Windows机器上安装了 [Visual Studio Code](https://code.visualstudio.com/).
 
-1. If you haven't yet, browse over to the main [Foam documentation workspace](https://foambubble.github.io/foam) to get an idea of what Foam is and how to use it.
-2. Press "Use this template" button at [foam-template](https://github.com/foambubble/foam-template/generate) (that's this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.
-3. [Clone the repository to your local machine](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) and open it in VS Code.
+1. 如果还没有，请浏览 [Foam documentation workspace](https://foambubble.github.io/foam) 了解什么是Foam以及如何使用它.
+2. 在[foam-template](https://github.com/foambubble/foam-template/generate) 按下"Use this template" 按钮将其分叉到您自己的GitHub帐户。如果您想保留自己的想法，请记住将存储库设置为私有.
+3. [克隆存储库到您的本地机器](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) 并在VS代码中打开它.
 
     *Open the repository as a folder using the `File > Open...` menu item. In VS Code, "open workspace" refers to [multi-root workspaces](https://code.visualstudio.com/docs/editor/multi-root-workspaces).*
 
@@ -16,16 +16,16 @@ This documentation assumes that you have a GitHub account and have [Visual Studi
 
 After setting up the repository, open [.vscode/settings.json](.vscode/settings.json) and edit, add or remove any settings you'd like for your Foam workspace.
 
-To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/recipes) bubbles of the Foam documentation workspace.
+要了解关于如何使用**Foam**的更多信息，请阅读泡沫文档工作区中的[Recipes](https://foambubble.github.io/foam/recipes)泡沫.
 
 
-## Using Foam
+## 使用 Foam
 
-We've created a few Bubbles (markdown documents) to get you started.
+我们已经创建了一些Bubbles(markdown文档)来让您开始.
 
-- [[inbox]] - a place to write down quick notes to be categorised later
-- [[foam-tips]] - tips to get the most out of your Foam workspace
-- [[todo]] - a place to keep track of things to do
+- [[inbox]] - 一个可以快速记笔记的地方，以便以后分类
+- [[foam-tips]] - 最大限度利用foam工作空间的技巧
+- [[todo]] - 一个记录要做事情的地方
 
 ## Note on `[[wiki-links]]`
 
